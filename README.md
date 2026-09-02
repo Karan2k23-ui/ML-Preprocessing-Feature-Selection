@@ -12,8 +12,8 @@ This project preprocesses loan applicant data and identifies statistically signi
 
 | Student        | Roll Number      | Contribution
 | -------------- | ---------------- | -------------
-| Karan Kumar    | CSJMA23001390019 | Feature Selection + Leakage + Final Dataset + Validation + Conclusion
-| Tushar Agarwal | CSJMA23001390127 | Understanding + Exploration + Data Cleaning
+| Karan Kumar    | CSJMA23001390019 | Feature Selection + Final Dataset + Validation + Conclusion
+| Tushar Agarwal | CSJMA23001390127 | Understanding + Exploration + Data Cleaning + Train/Test Split + Leakage
 | Utkarsh Singh  | CSJMA23001390050 | Encoding + Outliers + Transformation + Scaling + Visualization
 
 ## 4. Dataset
